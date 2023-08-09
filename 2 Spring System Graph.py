@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
+#Ishaan Bansal
+#Coded using Jupyter Notebook
 
 import numpy as np
 from math import sin
